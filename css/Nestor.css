@@ -1,0 +1,66 @@
+a:hover
+{
+   color:white;
+}
+
+h1,h2,h3,h4,h5,h6{margin: 0 ; padding: 0;}
+a
+{
+    text-decoration: none;
+    
+}
+
+.index
+{
+   background-color: black;
+  
+}
+
+.head
+{
+   text-align: center;
+   color:deeppink;
+}
+.on
+{
+   color: deeppink;
+}
+
+.one
+{
+   /* color:deeppink; */
+   font-size: 30px;
+   margin: 100px;
+   
+   margin-top: 200px;
+   
+}
+.homeimg img
+{
+   width: 400px;
+}
+.homeimg
+{
+text-align: center;
+margin-top: -400px;
+}
+
+.two
+{
+   /* color:deeppink; */
+   font-size: 30px;
+   margin: 100px;
+}
+
+.three
+{
+   font-size: 30px;
+   margin-left: 1180px;
+   margin-top: -460px;
+}
+.four
+{
+   font-size: 30px;
+   margin-left: 1180px;
+   margin-top: 115px;
+}
